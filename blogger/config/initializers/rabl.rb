@@ -1,0 +1,1 @@
+config.view_paths = ['/app/views']
